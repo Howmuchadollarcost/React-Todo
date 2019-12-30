@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.app{
+    width: 80%;
+    margin: 1em;
+}
+
+li{
+    font-size: 2em;
+}
+li:hover{
+    cursor: pointer;
+}
+
+.noline{
+    color:green;
+}
+
+.line{
+    color:red;
+    text-decoration: line-through;
+}
+
